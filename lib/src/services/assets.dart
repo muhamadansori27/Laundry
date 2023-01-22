@@ -1,0 +1,17 @@
+const String logo = 'assets/images/logo.png';
+const String lndry = 'assets/images/lndry.png';
+const String ctg = 'assets/images/ctg.png';
+const String lou = 'assets/images/lou.png';
+const String baju = 'assets/images/baju.png';
+const String msc = 'assets/images/msc.png';
+const String str = 'assets/images/str.png';
+const String ba = 'assets/images/ba.png';
+const String spa = 'assets/images/spa.png';
+const String kar = 'assets/images/kar.png';
+const String gor = 'assets/images/gor.png';
+const String jam = 'assets/images/jam.png';
+const String profil = 'assets/images/profil.png';
+const String kaki = 'assets/images/kaki.png';
+const String email = 'assets/images/email.png';
+const String key = 'assets/images/key.png';
+const String lok = 'assets/images/lok.png';
